@@ -4,7 +4,7 @@
 <h2>Files</h2>
 <ul>
     <li><strong>EmployeeHikeAnalysis.pbix:</strong> The Power BI report file.</li>
-    <li><strong>Data Source:</strong> Access the data file <strong>employee hike.csv</strong>.</li>
+    <li><strong>Data Source:</strong> Access the data file <strong>employee hike.xlsx</strong>.</li>
 
 </ul>
 
